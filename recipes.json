@@ -27,7 +27,7 @@
   },
 
   {
-    "recipeName": "Thyme Salad",
+    "recipeName": "Asparagus Salad",
     "category": ["Salad"],
     "priority": 1,
     "ingredients": [
@@ -52,6 +52,4 @@
     ],
     "comment": "Scrape the parmesan into wafer-thin slices with a grater. Cocktail tomatoes look great on it."
   }
-
-  
 ]
